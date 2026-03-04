@@ -1,6 +1,7 @@
 # Case File: Devlin
 
 *Filed by Vic "The Rain" Sterling*
+
 *Date: The kind of night where the rain sounds like applause for bad decisions*
 
 ---
